@@ -1,6 +1,6 @@
 local secenv = _G
 local modname = minetest.get_current_modname()
-local sec = (minetest.setting_get('secure.enable_security') == 'true')
+local sec = (minetest.settings:get('secure.enable_security') == 'true')
 local ie
 
 -- //MFF (Mg|01/07/2016 for classic#508, hg#104, sb#166, creative#68)
