@@ -1,4 +1,4 @@
-# Stack Trace Plus
+# StackTracePlus
 
 StackTracePlus is a Lua module that extends `debug.traceback` to include more
 call frame information such as local and globals, locals and parameters
@@ -28,4 +28,4 @@ entry.
 
 WTFPL / CC0 / Public Domain.
 
-Stack Trace Plus is distributed under the MIT license.
+StackTracePlus is distributed under the MIT license.
