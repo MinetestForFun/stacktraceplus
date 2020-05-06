@@ -1,4 +1,5 @@
 # StackTracePlus
+[![Build Status](https://travis-ci.org/MinetestForFun/stacktraceplus.svg)](https://travis-ci.org/MinetestForFun/stacktraceplus)
 
 StackTracePlus is a Lua module that extends `debug.traceback` to include more
 call frame information such as local and globals, locals and parameters
